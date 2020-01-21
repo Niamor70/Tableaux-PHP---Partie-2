@@ -26,7 +26,7 @@ $length = 16;
  * ps: un même charactère peut être utilisé plusieurs fois
  * utiliser la fonction mt_rand() : https://www.php.net/manual/fr/function.mt-rand.php
  */
-echo '<h2>Exercice 6</h2>';
+echo '<h2>Exercice 7</h2>';
 
 // écrire le code ici
 
